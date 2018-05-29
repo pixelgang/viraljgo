@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
-<widget id="com.viral.watcher" version="1.1" xmlns="http://www.w3.org/ns/widgets" xmlns:android = "http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.viral.watcher" version="1.2" xmlns="http://www.w3.org/ns/widgets" xmlns:android = "http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 	<name>Viral Watch</name>
 	<description>wacther</description>
 	<author href="http://www.aol.com" email="support@aol.com">viraljawn</author>
@@ -23,7 +23,7 @@
 	<access origin="*" />
 
 	<plugin name="cordova-custom-config" />
-	<plugin name="cordova-plugin-ad-admob" />
+	
 	<plugin name="cordova-plugin-inappbrowser" />
 	<plugin name="cordova-plugin-statusbar" />
 	<plugin name="cordova-plugin-whitelist" />
